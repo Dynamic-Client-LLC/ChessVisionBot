@@ -21,6 +21,4 @@ Thanks to the [Stockfish-Engine](https://github.com/official-stockfish/Stockfish
 
 
 ##  How to set-up and use
-I won't publish a how to install instructions because I want to prevent non programmers to just use this project to cheat on chess websites. My intend with that project is combine computer vision and machine learning with chess and to learn something about every of these aspects.   
-For a programmer who has the same intentions installation and setting up the environment isn't that hard even though I provide no instructions. The project is only tested on a Mac environment so there may be some compablility problems but I guess nothing impossible to fix.   
-Feel free to edit the code as you like. If you want to contribute your changes I happily await your Pull Request.
+Go ahead and fuck about with this, really cant give less of afuck
